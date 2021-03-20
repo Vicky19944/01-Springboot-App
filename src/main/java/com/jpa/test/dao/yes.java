@@ -6,6 +6,8 @@ public class yes {
 	 
 	 public void s() {
 		 
+		 
+		 // here his-134 bug fixed
 	 }
 	 
 	 
