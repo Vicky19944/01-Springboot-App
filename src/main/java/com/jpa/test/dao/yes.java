@@ -6,8 +6,14 @@ public class yes {
 	 
 	 public void s() {
 		 
+
 		 
 		 // here his-134 bug fixed
+		 int a;
+
+		 /// here changes for sidan car for HIS-122
+		 
+
 	 }
 	 
 	 
